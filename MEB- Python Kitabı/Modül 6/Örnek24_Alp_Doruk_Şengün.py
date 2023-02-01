@@ -1,0 +1,1 @@
+print(*range(5,20)) # 5 den(5 de dahil) 20 ye kadar olan sayıları ekrana yazdırır.

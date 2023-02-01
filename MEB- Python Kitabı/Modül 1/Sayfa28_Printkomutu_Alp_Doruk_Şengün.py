@@ -1,0 +1,1 @@
+print("Merhaba Python") #Ekrana tırnak işareti içinde alınan karakterleri çıkarır. Yani ekranda Merhaba Python çıkar.

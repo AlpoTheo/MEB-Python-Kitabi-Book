@@ -1,0 +1,1 @@
+print(a) # a yı değişken olarak algıladığı için ve değişken olarak a yı atamadığımız için syntax error verir.

@@ -1,0 +1,1 @@
+print(5/3) #Parantezin içindeki bölme işlemi gerçekleşir ve ekrana yazdırılır.

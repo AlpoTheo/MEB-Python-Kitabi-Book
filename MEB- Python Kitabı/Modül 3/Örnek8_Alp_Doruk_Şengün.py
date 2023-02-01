@@ -1,0 +1,1 @@
+print(2+2) # Parantezin içindeki toplama işlemini yapar ve ekrana yazdırır.

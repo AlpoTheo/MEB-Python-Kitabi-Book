@@ -1,0 +1,2 @@
+print("Konu: Yorum satırlarını kullanma")  #Bu kod ekrana yazı yazılmasını sağlamaktadır. Yani ekrana Konu: Yorum satırlarını kullanma yazısı çıkacaktır.
+# "#" karakterinden sonra yazılanlar yorum satırı olarak işlem görür ve tekrardan "#" kullanılarak yorum satırı kapatılır.

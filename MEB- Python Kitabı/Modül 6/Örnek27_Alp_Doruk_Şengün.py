@@ -1,0 +1,2 @@
+for i in range(20,0,-1): # 20 den başlayarak 0 a kadar 1 er geriye giderek sayıları alır for döngüsünde ve i değişkenine atar.
+ print(i,end=",")# teker teker for döngüsünden i ye gelen değerleri yazdırarak sonuna , işareti koyarak ekrana yazdırır.

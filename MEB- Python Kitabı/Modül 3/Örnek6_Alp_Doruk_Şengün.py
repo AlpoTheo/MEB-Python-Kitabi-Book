@@ -1,0 +1,1 @@
+print('Türkiye'nin en kalabalık ili İstanbul'dur') # nin en kalabalık ili İstanbul u tırnak içine dahil etmediği için syntax error verir.

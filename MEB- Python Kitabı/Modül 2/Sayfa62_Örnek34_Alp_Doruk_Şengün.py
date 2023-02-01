@@ -1,0 +1,1 @@
+print (121.00//3) # İki sayının birbirine tam bölüm sonucunu verir. Bölüm sonucu ondalıklı sayı ise ondalıklı kısmını almaz.

@@ -1,0 +1,3 @@
+kullaniciAdi=input('Kullanıcı Adı:') # Kullanıcıdan bir değer istenilir ve girilen değer kullaniciAdi değişkenine atanılır.
+kullaniciParola=input('Parola:')     # Kullanıcıdan bir  değer istenilir ve girilen değer kullaniciParola değişkenine atanılır.
+print(kullaniciAdi=='Admin' and kullaniciParola=='123456') # değişkenler eşitliği sorgulananan değerlere bakılır. and oparatörüne göre True ya da False değeri Ekrana yazılır.

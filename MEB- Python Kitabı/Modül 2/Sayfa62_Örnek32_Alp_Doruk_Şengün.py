@@ -1,0 +1,1 @@
+print(5**3) # İlk yazılan sayının üzerine 2. sayı üs olarak eklenir ve işlem yapılır ekrana yazdırılır.

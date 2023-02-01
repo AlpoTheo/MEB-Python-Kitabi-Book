@@ -1,0 +1,2 @@
+bolum=input('Bölümünüzü giriniz: ') # Kullanıcıdan değer istenilir. Girilen değer bolum değişkenine atanır.
+print(bolum=='Bilgisayar' or bolum=='Elektronik') # or oparatörüne göre eşitliği sorgulanan değişkenler True veya False olarak belirlenir ve ekrana yazılır. Büyük küçük harf duyarlılığına dikkat edilmelidir.

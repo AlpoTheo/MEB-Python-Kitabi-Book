@@ -1,0 +1,1 @@
+print("ahmet"+"şahin") # ahmet ile şahin ismi birleştirilir ekrana yazılır.

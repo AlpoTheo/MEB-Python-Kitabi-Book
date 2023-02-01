@@ -1,0 +1,1 @@
+print("pazartesi","salı","çarşamba","perşembe","cuma",sep="-") # pazartesi-salı-çarşamba-perşembe-cuma çıktısını ekrana yazdırır. Her bir argüman’ın arasına sep parametresi yardımıyla kural belirlenmiştir o da - karakteridir bu yüzden argümanların arasında - karakteriyle beraber yazdırılmıştır.

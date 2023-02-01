@@ -1,0 +1,1 @@
+print("Merhaba, Python!") # Merhaba, Python! yazısını ekrana yazdırır.

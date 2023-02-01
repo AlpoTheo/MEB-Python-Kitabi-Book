@@ -1,0 +1,1 @@
+print("Merhaba," Python "kullanıyorum") # Python tırnak içerisine alınmadığı için syntax error verir.

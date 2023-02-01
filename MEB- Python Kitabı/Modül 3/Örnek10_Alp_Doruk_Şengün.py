@@ -1,0 +1,1 @@
+print('Bursa\'nın iskenderi meşhurdur.') # ayırma işareti olan ' ı ters taksim ( \ ) işareti kullanılarak print in içinde kullanabiliriz.

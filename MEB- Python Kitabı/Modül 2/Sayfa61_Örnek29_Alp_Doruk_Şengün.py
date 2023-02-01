@@ -1,0 +1,1 @@
+print (20*'BA') #BA karakterini 20 defa yazdırır.

@@ -1,0 +1,1 @@
+print(49**(1/2)) # Parantezin içindeki bölme işlemi yapılarak 49 a üs olarak eklenir işlem yapılır ve ekrana yazdırılır.

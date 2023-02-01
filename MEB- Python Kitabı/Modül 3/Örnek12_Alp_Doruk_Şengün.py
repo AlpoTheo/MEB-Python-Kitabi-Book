@@ -1,0 +1,1 @@
+print("pazartesi \tsalı \tçarşamba") # \t işareti 1 tab boşluğu koyulmasını sağlayarak karakterleri boşluklu olarak yazılmasını sağlar.

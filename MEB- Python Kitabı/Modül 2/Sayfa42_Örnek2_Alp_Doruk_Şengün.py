@@ -1,0 +1,1 @@
+print(2+3) # Bu kod satırı ekrana 2 sayının toplamını yazar. Yani ekrana 5 sayısı çıkar.

@@ -1,0 +1,1 @@
+print(18/3/2) # Parantezin içindeki bölme işlemi gerçekleşir ve ekrana yazdırılır.
